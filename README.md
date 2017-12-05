@@ -1,4 +1,4 @@
-# Waypoints + SVG
+# jQuery waypoints + SVG
 
 **Watch a video that explains how to use waypoints then implement waypoints on a website with an SVG graphic.**
 
@@ -8,7 +8,7 @@
 
 This is the starter code for a step-by-step lesson. Each step is described in detail here:
 
-### [**Follow the Waypoints + SVG step-by-step lesson ➔**](https://learn-the-web.algonquindesign.ca/courses/javascript/waypoints-svg/)
+### [**Follow the jQuery waypoints + SVG step-by-step lesson ➔**](https://learn-the-web.algonquindesign.ca/courses/javascript/jquery-waypoints-svg/)
 
 ---
 
