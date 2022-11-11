@@ -8,7 +8,7 @@
 
 This is the starter code for a step-by-step lesson. Each step is described in detail here:
 
-### [**Follow the jQuery waypoints + SVG step-by-step lesson ➔**](https://learn-the-web.algonquindesign.ca/courses/javascript/jquery-waypoints-svg/)
+### [**Follow the jQuery waypoints + SVG step-by-step lesson ➔**](https://learntheweb.courses/courses/javascript/jquery-waypoints-svg/)
 
 ---
 
